@@ -1,0 +1,58 @@
+[
+  {
+    "title": "AI in Healthcare: A Revolution",
+    "description": "Artificial intelligence is transforming healthcare, from diagnostics to drug discovery. Explore the latest breakthroughs and ethical considerations.",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=AI+in+Healthcare",
+    "category": "Tech",
+    "link": "#article-link-1"
+  },
+  {
+    "title": "The Future of Media Consumption",
+    "description": "Streaming services, social media, and VR are reshaping how we consume content. What does the future hold for media?",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=Future+of+Media",
+    "category": "Media",
+    "link": "#article-link-2"
+  },
+  {
+    "title": "Sustainable Investment Strategies",
+    "description": "ESG investing is gaining traction as investors look for both financial returns and positive societal impact. Learn about sustainable approaches.",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=Sustainable+Investment",
+    "category": "Investment",
+    "link": "#article-link-3"
+  },
+  {
+    "title": "E-commerce Trends to Watch in 2025",
+    "description": "Personalization, AI-driven recommendations, and social commerce are set to dominate the e-commerce landscape. Stay ahead of the curve.",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=E-commerce+Trends",
+    "category": "Shopping",
+    "link": "#article-link-4"
+  },
+  {
+    "title": "Exploring Remote Work Lifestyles",
+    "description": "The rise of remote work has opened up new possibilities for lifestyle design. Discover tips and tools for thriving as a digital nomad.",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=Remote+Work+Lifestyle",
+    "category": "Lifestyle",
+    "link": "#article-link-5"
+  },
+  {
+    "title": "Deep Dive into Quantum Computing",
+    "description": "Quantum computers promise to solve problems currently intractable for classical computers. Understand the basics and potential applications.",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=Quantum+Computing",
+    "category": "Tech",
+    "link": "#article-link-6"
+  },
+  {
+    "title": "Marketing in the Age of AI",
+    "description": "AI tools are revolutionizing marketing automation, content creation, and customer analytics. How can businesses leverage these technologies?",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=AI+Marketing",
+    "category": "Marketing",
+    "link": "#article-link-7"
+  },
+  {
+    "title": "The Metaverse: Hype vs. Reality",
+    "description": "Is the metaverse the next internet or an overhyped concept? We explore its current state and future prospects.",
+    "imageUrl": "https://via.placeholder.com/600x300.png?text=Metaverse",
+    "category": "Tech",
+    "link": "#article-link-8"
+  }
+]
